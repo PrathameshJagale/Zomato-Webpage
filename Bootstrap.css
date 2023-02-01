@@ -1,0 +1,270 @@
+*{
+    box-sizing: border-box;
+    font-family: Poppins;
+}
+
+body{
+    background-color: #FBFBFB;
+}
+
+.empty{
+    height: 700px;
+}
+
+.back-img{
+    top: 0px;
+    left: 0px;
+    width: 1366px;
+    height: 480px;
+    background: linear-gradient( #9D0E0E00 0%, #4F0707 100%) 50% 50% no-repeat padding-box;
+    mix-blend-mode: multiply;
+    opacity: 1;
+}
+
+.login{
+    top: 29px;
+    left: 1015px;
+    width: 43px;
+    height: 23px;
+    text-decoration: none;
+    color: white;
+    opacity: 1;
+    letter-spacing: 0px;
+    position: absolute;
+}
+
+.createacc{
+    text-align: center;
+    margin: auto;
+    top: 29px;
+    left: 1099px;
+    width: 152px;
+    height: 23px;
+    text-decoration: none;
+    color: white;
+    opacity: 0.8;
+    letter-spacing: 0px;
+    position: absolute;
+    border: 1px solid #FFFFFF;
+    border-radius: 3px;
+    opacity: 1;
+    top: 17px;
+    left: 1084px;
+    width: 181px;
+    height: 46px;
+    padding-top: 11px;
+}
+
+.logo{
+    top: 81px;
+    left: 700px;
+    width: 147px;
+    height: 147px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    position: absolute;
+    text-align: center;
+    /* font: normal normal 600 70px/106px Poppins; */
+    font-size: 70px;
+    font-weight: bold;
+    letter-spacing: 0px;
+    color: #EB2929;
+    opacity: 1;
+    border-radius: 50%;
+    padding-top: 15px;
+    padding-left: 8px;
+    text-decoration: none;
+}
+
+.cafes{
+    top: 250px;
+    left: 400px;
+    width: 758px;
+    height: 51px;
+    text-align: left;
+    font-size: 35px;
+    font-weight: bold;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    position: absolute;
+}
+
+.locationSelector{
+    top: 339px;
+    left: 420px;
+    width: 245px;
+    height: 60px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    position: absolute;
+    text-align: center;
+    font-size: 15px;
+    font-weight: lighter;
+    letter-spacing: 0px;
+    text-decoration: none;
+    padding-top: 15px;
+}
+
+.locationDropdown{
+    border: none;
+    color: #636F88;
+    text-decoration: none;
+}
+
+.restaurantSelector{
+    top: 339px;
+    left: 690px;
+    width: 477px;
+    height: 60px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    opacity: 1;
+    position: absolute;
+    padding-top: 15px;
+}
+
+.restaurentsInput{
+    left: 50px;
+    border: none;
+    color: #636F88;
+    text-decoration: none;
+    position: absolute;
+}
+
+.search-icon{
+    color: #636F88;
+    position: absolute;
+    left: 20px;
+    height: 17px;
+}
+
+.search{
+    top: 528px;
+    left: 220px;
+    width: 400px;
+    height: 60px;
+    text-align: left;
+    /* font: normal normal bold 30px/46px Poppins; */
+    font-size: 40px;
+    font-weight: bold;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    position: absolute;
+}
+
+.discover{
+    top: 590px;
+    left: 225px;
+    width: 400px;
+    height: 50px;
+    text-align: left;
+    /* font: normal normal normal 18px/27px Poppins; */
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1;
+    position: absolute;
+    font-size: 21px;
+    font-weight:lighter ;
+}
+
+.card{
+    top: 660px;
+    left: 225px;
+    width: 400px;
+    height: 160px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    position: absolute;
+}
+
+.card-img-top{
+    top: 636px;
+    left: 113px;
+    width: 160px;
+    height: 160px;
+    opacity: 1;
+}
+
+.breakfast{
+    top: 15px;
+    left: 185px;
+    width: 500px;
+    height: 50px;
+    text-align: left;
+    /* font: normal normal 600 18px/27px Poppins; */
+    font-size: 20px;
+    font-weight: bold;
+    letter-spacing: 0px;
+    color: #192F60;
+    opacity: 1;
+    position: absolute;
+}
+
+.start{
+    top: 50px;
+    left: 185px;
+    width: 138px;
+    height: 62px;
+    text-align: left;
+    font: normal normal normal 14px/21px Poppins;
+    letter-spacing: 0px;
+    color: #8C96AB;
+    opacity: 1;
+    position: absolute;
+}
+
+.card1{
+    top: 660px;
+    left: 650px;
+    width: 360px;
+    height: 160px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    position: absolute;
+}
+
+.card2{
+    top: 660px;
+    left: 1038px;
+    width: 360px;
+    height: 160px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    position: absolute;
+}
+
+.card3{
+    top: 850px;
+    left: 225px;
+    width: 400px;
+    height: 160px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    position: absolute;
+}
+
+.card4{
+    top: 850px;
+    left: 650px;
+    width: 360px;
+    height: 160px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    position: absolute;
+}
+
+.card5{
+    top: 850px;
+    left: 1038px;
+    width: 360px;
+    height: 160px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 6px #00000029;
+    opacity: 1;
+    position: absolute;
+}
